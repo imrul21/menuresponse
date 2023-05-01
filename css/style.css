@@ -1,0 +1,29 @@
+nav #main_menu ul li a{
+    color: aqua;
+    text-transform: uppercase;
+    font-size: 21px;
+    transition: .7s;
+    
+}
+nav #main_menu ul li:hover a {
+    
+    color: #ffc712;
+    transition: .7s;
+
+
+}
+
+nav #mainnmenu ul li a{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-size: 21px;
+    transition: .7s;
+    
+}
+nav #mainnmenu ul li:hover a {
+    
+    color: #7c1d35;
+    transition: .7s;
+
+
+}
